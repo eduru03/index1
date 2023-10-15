@@ -1,0 +1,16 @@
+#id1{
+  background-color: black;
+  border-color: white;
+  text-align: left;
+  -webkit-text-fill-color: white;
+}
+table{
+  border-collapse: collapse;
+}
+tr{
+  border-bottom:1px solid white;
+}
+a{
+  text-decoration: none;
+  -webkit-text-fill-color: white;
+}
